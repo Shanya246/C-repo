@@ -20,7 +20,6 @@ celcius= celcius+step;
 
 
 OUTPUT :
-
   ----------------------------                                                                                                                     
                                                                                                                                                   
  celcius        || Fahrenheit                                                                                                                     
