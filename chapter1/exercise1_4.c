@@ -18,7 +18,6 @@ celcius= celcius+step;
 
 
 
-
 OUTPUT :
   ----------------------------                                                                                                                     
                                                                                                                                                   
