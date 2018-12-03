@@ -7,8 +7,6 @@ printf("\c Hello world ");
 
 
 
-
-
 Warning meassage shows that : Unknown escape sequence '\c' 
 
 
